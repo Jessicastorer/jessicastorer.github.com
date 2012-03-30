@@ -1,0 +1,6 @@
+*.sw[nomp]
+!.keep
+*~
+*.orig
+*.rdb
+*.tmp
