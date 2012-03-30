@@ -4,3 +4,4 @@
 *.orig
 *.rdb
 *.tmp
+.DS_Store
