@@ -12,7 +12,7 @@ Version: 1.1
 
 /*
 ------------------------------------------------------------
-|                         Site styles         
+|                         Site styles
 ------------------------------------------------------------
 */
 
@@ -112,12 +112,12 @@ a img {
 
 #top ul li {
 	float:left;
-	margin:0px 20px 0px 0px;
+	margin:0px;
 }
 
 #top a {
 	display:block;
-	padding:10px 10px 10px 23px;
+	padding:3px 3px 3px 23px;
 	outline:none;
 }
 
@@ -129,22 +129,6 @@ a img {
 
 #top a:hover {
 	color:#0085CF;
-}
-
-#download {
-	background:url(images/disk.jpg) no-repeat 0px 9px;
-}
-
-#mail {
-	background:url(images/mail.jpg) no-repeat 0px 9px;
-}
-
-#print {
-	background:url(images/printer.jpg) no-repeat 0px 9px;
-}
-
-#photo {
-	background:url(images/image.jpg) no-repeat 0px 9px;
 }
 
 /*
